@@ -10,7 +10,7 @@
 - artifact id : henny-kane-api
 - package name : com.hennykane
 
-- Java Language Version : 19
+- Java Language Version : 21
 - Spring Boot Version : 최신
 - Gradle 프로젝트
 - dependencies:

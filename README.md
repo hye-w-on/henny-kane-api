@@ -2,7 +2,7 @@
 
 - artifact id : henny-kane-api
 - package name : com.hennykane
-- Java Language Version : 19
+- Java Language Version : 21
 - Spring Boot Version : 3.1.5
 
 # Dependencies
