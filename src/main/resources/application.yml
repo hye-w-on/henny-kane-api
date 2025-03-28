@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: henny-kane-api
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:local}
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: INFO
+    com.hennykane: DEBUG
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+  api-docs:
+    path: /api-docs
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json
